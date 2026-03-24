@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+venv/
+.venv/
+
+# Model weights (too large for git)
+whisper-hindi-best/
+*.safetensors
+*.bin
+training_args.bin
+
+# Audio files
+*.wav
+*.mp3
+*.flac
+output/q4_samples/
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Data files (use Kaggle dataset)
+Datasets/
+unique_words.txt

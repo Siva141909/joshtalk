@@ -1,0 +1,3 @@
+model,raw_wer,normalized_wer
+Whisper-small (pretrained),255.93,255.59
+Whisper-small (fine-tuned),36.21,33.85

@@ -1,0 +1,6 @@
+model,standard_wer,lattice_wer,delta
+whisper-tiny,126.63,126.63,0.0
+whisper-base,110.4,110.4,0.0
+whisper-small,89.32,89.04,0.28
+whisper-medium,75.17,74.9,0.27
+whisper-small-finetuned,33.7,33.43,0.27
